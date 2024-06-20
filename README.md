@@ -1,4 +1,4 @@
-# Galeria-de-fotos🐦
+# Galeria-de-fotos 🐦
 Galeria de fotos dos pássaros mais bonitos do mundo, aqui você poderá descobrir quais são os passáros mais bem vistos pelas pessoas numa disposição em galeria, então espero que você se divirta e se maravilhe descobrindo mais sobre esses animais incríveis! 
 
 # Pré visualisação do site:
